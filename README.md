@@ -1,4 +1,3 @@
-# lab_rab_dab_v2
 <!-- README для проекта разработки приложения Microsoft PowerPoint -->
 
 <h1>Проект приложения Microsoft PowerPoint</h1>
