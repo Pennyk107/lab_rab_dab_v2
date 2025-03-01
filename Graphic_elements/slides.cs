@@ -1,7 +1,14 @@
 using System;
 
+/// <summary>
+/// Класс InteractiveElementsExample демонстрирует интерактивную презентацию с возможностью навигации.
+/// </summary>
 class InteractiveElementsExample
 {
+    /// <summary>
+    /// Главный метод программы, который запускает интерактивную презентацию.
+    /// </summary>
+    /// <param name="args">Аргументы командной строки (не используются в этом примере).</param>
     static void Main(string[] args)
     {
         Console.WriteLine("Интерактивная презентация");

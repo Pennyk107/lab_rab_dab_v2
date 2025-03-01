@@ -1,10 +1,17 @@
 using System;
 using System.Collections.Generic;
 
+/// <summary>
+/// Класс CollaborationExample демонстрирует режим совместной работы, позволяя добавлять и просматривать комментарии.
+/// </summary>
 class CollaborationExample
 {
     static List<string> comments = new List<string>();
 
+    /// <summary>
+    /// Главный метод программы, который запускает режим совместной работы.
+    /// </summary>
+    /// <param name="args">Аргументы командной строки (не используются в этом примере).</param>
     static void Main(string[] args)
     {
         Console.WriteLine("Collaboration Mode");

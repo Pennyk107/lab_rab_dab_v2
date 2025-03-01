@@ -1,7 +1,14 @@
 using System;
 
+/// <summary>
+/// Класс MobileVersionExample демонстрирует упрощенную версию приложения для мобильных устройств.
+/// </summary>
 class MobileVersionExample
 {
+    /// <summary>
+    /// Главный метод программы, который предоставляет пользователю выбор действий.
+    /// </summary>
+    /// <param name="args">Аргументы командной строки (не используются в этом примере).</param>
     static void Main(string[] args)
     {
         Console.WriteLine("Mobile Version");
